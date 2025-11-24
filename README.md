@@ -19,7 +19,7 @@ KIT
 
 
 ### 6. Termin am 15.09.2025
-Vortrag "KI-Angebote im Wandel - an der IU und bei euch?" durch Anne Gröger, Joann McDonald und Kira Hoffmann von der IU Internationalen Hochschule. 
+Vortrag "KI-Angebote im Wandel - an der IU und bei euch?" durch Anne Gröger, Joann MacDonald und Kira Hoffmann von der IU Internationalen Hochschule. 
 
 Außerdem Diskussion und Austausch zu verschiedenen Themen.
 
