@@ -18,8 +18,9 @@ Vortrag "KI-Workshops für Dozierende an der FHNW - Einblicke und Erfahrungen" d
 
 https://github.com/IU-Library/KI-Austausch-Teaching-Libraries/blob/main/2025_11_FHNW_KI-Workshop_Dozierende_Konzept.pdf
 
-Vortrag "Tool Calls und MCP (model context protocol) beim KI-Service-Chatbot BibKI" durch Uwe Dierolf vom KIT. Präsentation folgt noch.
+Vortrag "Tool Calls und MCP (model context protocol) beim KI-Service-Chatbot BibKI" durch Uwe Dierolf vom KIT.
 
+https://github.com/IU-Library/KI-Austausch-Teaching-Libraries/blob/main/2025_11_KIT_%20KI-Austausch%20MCP.pdf
 
 ### 6. Termin am 15.09.2025
 Vortrag "KI-Angebote im Wandel - an der IU und bei euch?" durch Anne Gröger, Joann MacDonald und Kira Hoffmann von der IU Internationalen Hochschule. 
